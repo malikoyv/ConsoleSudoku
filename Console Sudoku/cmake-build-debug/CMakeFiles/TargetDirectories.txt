@@ -1,0 +1,3 @@
+C:/Users/migga/Documents/PJATK/Console Sudoku/cmake-build-debug/CMakeFiles/sudoku_w_consoli.dir
+C:/Users/migga/Documents/PJATK/Console Sudoku/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/migga/Documents/PJATK/Console Sudoku/cmake-build-debug/CMakeFiles/rebuild_cache.dir
